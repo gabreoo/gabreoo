@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Guilherme+Gabriel+Carlos;I+study+analysis+and+systems+development+at+Universidade+Veiga+de+Almeida;Be+Welcome!+:%29)](https://git.io/typing-svg) 
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&pause=1000&color=983DF7&width=435&lines=Hello%2C+my+name+is+Guilherme+Carlos;You+are+welcome+to+contribute+to+this+journey." alt="Typing SVG" /></a>
 
 <p align="left">
     <a href="https://www.behance.net/gabreo">
