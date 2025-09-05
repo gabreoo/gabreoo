@@ -1,17 +1,32 @@
-<h2 align="left">Hi, I'm Guilherme <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" ></h1>
-<h3 align="left">A passionate frontend developer from Brazil</h3>
-<p>I'm a student of Analysis and Systems Development, passionate about UI/UX Design, Front-end Development and constantly exploring Full Stack technologies. <br>
-I also work as a freelancer with design for social media and I'm improving my skills in programming and software engineering.</p>
+# GitHub Profile - @gabreoo
 
-<h2>Languages</h2>
+## Bio:
+A passionate Android developer from Brazil
+Software Engineering student focused on Native Android Development. Building robust applications with Kotlin and exploring best practices in mobile software engineering.
+Also working as a freelancer while continuously improving my programming skills.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,c,cpp,cs,nodejs,python&perline=6" height="100px"/>
-</p>
+## Alternative concise version:
+🇧🇷 Android Developer | Software Engineering Student | Kotlin enthusiast | Building native mobile solutions
 
+## Profile highlights based on your repos:
+- **Native Android Development** (evident from your Kotlin projects)
+- **Software Engineering** (your academic and professional focus)
+- **Kotlin expertise** (rocketkt, leet-kotlin, Kotlin repos show this)
+- **Problem-solving** (leet-kotlin shows algorithmic thinking)
+- **Practical experience** (fabrica project suggests real-world applications)
 
-<h2>
-  Tools
-</h2>
-<p><img src="https://skillicons.dev/icons?i=figma,ps,ai,vscode,bash,notion,git,github,pr,vercel,azure&perline=6" height="100px"/>
-</p>
+## Suggested GitHub README.md sections:
+### 🛠️ Tech Stack
+- **Languages**: Kotlin, Java
+- **Mobile**: Native Android Development
+- **Focus**: Software Engineering & Mobile Architecture
+
+### 📱 Current Focus
+- Native Android applications
+- Software engineering best practices
+- Mobile app architecture patterns
+
+### 🎯 Goals
+- Mastering Android development
+- Contributing to open-source mobile projects
+- Building scalable mobile solutions
