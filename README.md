@@ -12,7 +12,7 @@ Also working as a freelancer while continuously improving my programming skills.
 ----
 
 <a href="https://linkedin.com/in/guilhermegabrielrc">
-  <img align="left" alt="Guilherme's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+  <img align="left" alt="Guilherme's LinkedIn" width="20px" src="https://simpleicons.now.sh/inspire/495f7e" />
 </a>
 <a href="https://twitter.com/gabrcreates">
   <img align="left" alt="Guilherme's X" width="20px" src="https://simpleicons.now.sh/x/495f7e" />
