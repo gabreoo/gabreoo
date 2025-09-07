@@ -12,10 +12,10 @@
 ![figma](https://img.shields.io/static/v1?logo=figma&label=&message=figma&color=%23000000&logoColor=AAA&style=flat-square) 
 ![intellijidea](https://img.shields.io/static/v1?logo=intellijidea&label=&message=intellij&color=%23000000&logoColor=AAA&style=flat-square)
 
-![socials](https://img.shields.io/badge/Badge-000000?style=flat-square&logo=star&logoColor=white)
-[![x](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/gabrcreates)
-[![linkedin](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabreoo)
-[![email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
+![socials](https://img.shields.io/badge/socials-000000?style=flat-square&logo=star&logoColor=white)
+[![x](https://img.shields.io/badge/x-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/gabrcreates)
+[![linkedin](https://img.shields.io/badge/linkedin-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabreoo)
+[![email](https://img.shields.io/badge/email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
 
 ---
 A passionate Android developer from Brazil.  
