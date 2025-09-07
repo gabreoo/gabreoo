@@ -13,8 +13,11 @@
 ![intellijidea](https://img.shields.io/static/v1?logo=intellijidea&label=&message=intellij&color=%23000000&logoColor=AAA&style=flat-square)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 ---
+![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)(https://x.com/gabrcreates) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermegabrielrc)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:higabreo@gmail.com)
 
-
+---
 A passionate Android developer from Brazil.  
 Software Engineering student focused on **Native Android Development**.  
 Building robust applications with **Kotlin** and exploring best practices in mobile software engineering.
