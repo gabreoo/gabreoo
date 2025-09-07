@@ -11,11 +11,12 @@
 ![adobe](https://img.shields.io/static/v1?logo=adobe&label=&message=adobe&color=%23000000&logoColor=AAA&style=flat-square) 
 ![figma](https://img.shields.io/static/v1?logo=figma&label=&message=figma&color=%23000000&logoColor=AAA&style=flat-square) 
 ![intellijidea](https://img.shields.io/static/v1?logo=intellijidea&label=&message=intellij&color=%23000000&logoColor=AAA&style=flat-square)
-[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
+
 ---
-![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)(https://x.com/gabrcreates) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermegabrielrc)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:higabreo@gmail.com)
+
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/gabrcreates)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabreoo)
+[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
 
 ---
 A passionate Android developer from Brazil.  
