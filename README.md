@@ -18,9 +18,11 @@
 
 
 ---
+
 A passionate Android developer from Brazil.  
 Software Engineering student focused on **Native Android Development**.  
 Building robust applications with **Kotlin** and exploring best practices in mobile software engineering.
+
 ---
 <pre>
 ⠀⠀⠀⠀⠀⠀⠀⢀⠀⡀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀
