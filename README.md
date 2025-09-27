@@ -21,13 +21,6 @@
 A passionate Android developer from Brazil.  
 Software Engineering student focused on **Native Android Development**.  
 Building robust applications with **Kotlin** and exploring best practices in mobile software engineering.
-
----
-
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabreoo&theme=black-white&background=000000&ring=AAAAAA&fire=AAAAAA&currStreakNum=FFFFFF&sideNums=AAAAAA&currStreakLabel=AAAAAA&sideLabels=AAAAAA&dates=AAAAAA" alt="GitHub Streak" />
-</div>
-
 ---
 <pre>
 ⠀⠀⠀⠀⠀⠀⠀⢀⠀⡀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀
